@@ -1,4 +1,6 @@
 This is my first file ....
+<<<<<<< HEAD
 this line added - commit1
+=======
 this line added - commit2
-
+>>>>>>> a0851c2 (commit2 added by commit2 folder)
